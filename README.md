@@ -8,5 +8,5 @@
 
 ```shell
 pnpm install
-pnpm start
+pnpm start baidu.com
 ```
