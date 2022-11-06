@@ -7,13 +7,13 @@ specifiers:
   ping: 0.4.2
   typescript: 4.8.4
   vite: 3.2.2
-  ws: 8.10.0
+  ws: 8.11.0
 
 dependencies:
   echarts: 5.4.0
   execa: 6.1.0
   ping: 0.4.2
-  ws: 8.10.0
+  ws: 8.11.0
 
 devDependencies:
   '@vitejs/plugin-react': 2.2.0_vite@3.2.2
@@ -977,8 +977,8 @@ packages:
       isexe: 2.0.0
     dev: false
 
-  /ws/8.10.0:
-    resolution: {integrity: sha512-+s49uSmZpvtAsd2h37vIPy1RBusaLawVe8of+GyEPsaJTCMpj/2v8NpeK1SHXjBlQ95lQTmQofOJnFiLoaN3yw==}
+  /ws/8.11.0:
+    resolution: {integrity: sha512-HPG3wQd9sNQoT9xHyNCXoDUa+Xw/VevmY9FoHyQ+g+rrMn4j6FB4np7Z0OhdTgjx6MgQLK7jwSy1YecU1+4Asg==}
     engines: {node: '>=10.0.0'}
     peerDependencies:
       bufferutil: ^4.0.1
